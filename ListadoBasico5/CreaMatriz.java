@@ -18,7 +18,6 @@ public class CreaMatriz{
 
 	/**
 	 * Pide al usuario la dimensión de la fila
-	 * 
 	 * @return tamaño de la fila
 	 */
 	static int pedirFila(){
@@ -34,7 +33,6 @@ public class CreaMatriz{
 
 	/**
 	 * Pide al usuario la dimensión de la columna
-	 * 
 	 * @return tamaño de la columna
 	 */
 	static int pedirColumna(){
@@ -50,7 +48,6 @@ public class CreaMatriz{
 
 	/**
 	 * Pide al usuario los elementos de la matriz
-	 * 
 	 * @param matriz de enteros
 	 */
 	static void pedirDatos(int [][] matriz){
