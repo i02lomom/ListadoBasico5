@@ -1,13 +1,13 @@
 package ListadoBasico5;
 import utiles.*;
 /**
-* Crea una clase CreaVector que solicite al usuario el tamaño de un nuevo vector y que
-* le pida los enteros necesarios para inicializarlo. Utiliza los métodos pedirDimension() y
-* pedirDatos(int[])
-* 
-* @author Miguel Angel López Moyano
-* @version 1.0
-*/
+ * Crea una clase CreaVector que solicite al usuario el tamaño de un nuevo vector y que
+ * le pida los enteros necesarios para inicializarlo. Utiliza los métodos pedirDimension() y
+ * pedirDatos(int[])
+ * 
+ * @author Miguel Angel López Moyano
+ * @version 1.0
+ */
 public class CreaVector{
 	public static void main(String[] args){
 		int vector[]=new int[pedirDimension()];
